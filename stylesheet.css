@@ -1,5 +1,13 @@
+body {
+  background-color: #666666;
+}
+
 h1 {
-  font-size: 50px
-  color: red
-  
+  font-size: 50px;
+  color: #FFFFFF;
+}
+
+h2 {
+  font-size: 25px;
+  color: #FFFFFF;
 }

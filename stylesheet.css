@@ -1,13 +1,23 @@
-body {
-  background-color: #666666;
-}
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans:100,100i,300,300i,400,400i,600,600i,700,700i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Cabin:400,400i,500,500i|Inconsolata|Nunito+Sans:200,200i,300,300i,400|Nunito:200,200i,300,300i,400|Pacifico|Quicksand:300,400|Rubik:300,300i,400|VT32|Julius+Sans+One");
+::-webkit-scrollbar-thumb {
+  background: #F96E5B; }
 
-h1 {
-  font-size: 50px;
+::-webkit-scrollbar {
+  height: 9px;
+  width: 9px;
+  background: white; }
+
+.title {
+  font-family: "Raleway", sans-serif;
+  font-weight: 100;
+  font-size: 120px;
   color: #FFFFFF;
-}
+  text-align: center;
+  padding-top: 250px;
+  text-shadow: 0px 2px 3px #000000; }
 
 h2 {
   font-size: 25px;
-  color: #FFFFFF;
-}
+  color: #FFFFFF; }
+
+/*# sourceMappingURL=stylesheet.css.map */
